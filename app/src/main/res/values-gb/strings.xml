@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SettingsPage</string>
+
+    <string-array name="string_levels">
+        <item>English (US)</item>
+        <item>English (UK)</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Portuguese</item>
+    </string-array>
+
+    <string name="aboutus_text">Our mission in developing this app is to actively support recycling and waste management initiatives, aligning with the United Nations’ Sustainable Development Goals, particularly Climate Action and Life Below Water. Through this platform, we aim to inspire collective efforts toward achieving these objectives, creating a healthier and more sustainable environment for future generations.</string>
+</resources>

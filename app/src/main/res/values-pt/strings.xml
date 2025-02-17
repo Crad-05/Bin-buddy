@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Página de Configurações</string>
+
+    <string-array name="string_levels">
+        <item>Inglês (EUA)</item>
+        <item>Inglês (Reino Unido)</item>
+        <item>Francês</item>
+        <item>Espanhol</item>
+        <item>Português</item>
+    </string-array>
+
+    <string name="aboutus_text">
+        Nossa missão no desenvolvimento deste aplicativo é apoiar ativamente iniciativas de reciclagem e gestão de resíduos, alinhando-se aos Objetivos de Desenvolvimento Sustentável das Nações Unidas, em particular Ação Climática e Vida Marinha. Por meio desta plataforma, buscamos inspirar esforços coletivos para alcançar esses objetivos, criando um ambiente mais saudável e sustentável para as futuras gerações.
+    </string>
+</resources>

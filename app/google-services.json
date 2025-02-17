@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1035203687618",
+    "firebase_url": "https://binbuddy-9de27-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "binbuddy-9de27",
+    "storage_bucket": "binbuddy-9de27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035203687618:android:8d3da77fdb52975f5ef75b",
+        "android_client_info": {
+          "package_name": "com.example.binbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32axbHWvKK-_SV0Ku_lrf7xL4ok363n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

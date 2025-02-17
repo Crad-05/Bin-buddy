@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Page des paramètres</string>
+
+    <string-array name="string_levels">
+        <item>Anglais (États-Unis)</item>
+        <item>Anglais (Royaume-Uni)</item>
+        <item>Français</item>
+        <item>Espagnol</item>
+        <item>Portugais</item>
+    </string-array>
+
+    <string name="aboutus_text">
+        Notre mission dans le développement de cette application est de soutenir activement les initiatives de recyclage et de gestion des déchets, en alignement avec les objectifs de développement durable des Nations Unies, en particulier l’action climatique et la vie sous l’eau. À travers cette plateforme, nous visons à inspirer des efforts collectifs pour atteindre ces objectifs, créant un environnement plus sain et plus durable pour les générations futures.
+    </string>
+</resources>
